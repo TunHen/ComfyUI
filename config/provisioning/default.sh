@@ -23,6 +23,7 @@ NODES=(
     "https://github.com/rgthree/rgthree-comfy"
     "https://github.com/AIGODLIKE/AIGODLIKE-COMFYUI-TRANSLATION"
     "https://github.com/talesofai/comfyui-browser"
+    "https://github.com/2kpr/ComfyUI-UltraPixel"
 )
 
 CHECKPOINT_MODELS=(
