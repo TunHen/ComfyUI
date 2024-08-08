@@ -22,6 +22,7 @@ NODES=(
     "https://github.com/ltdrdata/ComfyUI-Manager"
     "https://github.com/rgthree/rgthree-comfy"
     "https://github.com/AIGODLIKE/AIGODLIKE-COMFYUI-TRANSLATION"
+    "https://github.com/talesofai/comfyui-browser"
 )
 
 CHECKPOINT_MODELS=(
